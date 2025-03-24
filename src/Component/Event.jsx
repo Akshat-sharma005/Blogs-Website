@@ -1,6 +1,6 @@
 const Event=()=>{
     return <div>
-        <div className="home">EVENTS</div>
+        <div className="home">EVENTS.</div>
     </div>
 }
 
